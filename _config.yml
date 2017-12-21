@@ -1,4 +1,4 @@
-title: 王俊臣的个人主页
+title: Junchen's blog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,9 +9,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 王俊臣 # add your name
+author: Junchen Wang # add your name
 author-img: profile-photo.jpg # add your photo
-about-author: 我在中国地质大学（武汉）读研究生，我的研究方向是演化计算 # add description
+about-author: I'am a graduate student from China University of Geoscience, and my research interest is Evolutionary Computation # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: WangJunChen567 # add your Github handle
