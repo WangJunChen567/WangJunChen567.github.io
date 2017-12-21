@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 王俊臣 # add your name
 author-img: profile-photo.jpg # add your photo
-about-author: 我在中国地质大学（武汉）读研究生，研究方向是演化计算。 # add description
+about-author: 我在中国地质大学（武汉）读研究生，我的研究方向是演化计算 # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: WangJunChen567 # add your Github handle
 linkedin: # add your Linkedin handle
-email: # add your Email address
+email: wangjunchen@cug.edu.cn # add your Email address
 
 # Disqus
 discus-identifier: JC-Wang # add your discus identifier
