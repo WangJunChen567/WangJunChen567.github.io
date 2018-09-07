@@ -11,11 +11,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Junchen Wang # add your name
 author-img: profile-photo.jpg # add your photo
-about-author: A graduate student from China University of Geoscience, Research interest is Evolutionary Computation # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
+about-author: This is a Notebook rather than Blog  # add description
+twitter: JunChWang
+facebook: junchen.wang.140
 github: WangJunChen567 # add your Github handle
-linkedin: # add your Linkedin handle
+linkedin: wangjunchenchris
 email: wangjunchen@cug.edu.cn # add your Email address
 
 # Disqus
