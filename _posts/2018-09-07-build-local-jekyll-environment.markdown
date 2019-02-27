@@ -16,11 +16,11 @@ I install the Ubuntu 18.04.
 ## 2. Install gem in Linux
 Open the Linux terminal and run this command:
 ```
-sudo apt install gem
+sudo apt install ruby ruby-dev
 ```
 
 ## 3. Change the ruby source
-The original ruby source is too slow to reach in China, so we need to change our ruby source to ruby-china mirror:
+The original ruby source is too slow to reach in China, so I change the ruby source to ruby-china mirror:
 ```
 gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 ```
@@ -36,7 +36,7 @@ sudo bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 ```
 
 ## 6. Install missing gems
-CD into your github page directory and install missing gem packages:
+CD into your github page directory and install needed gem packages:
 ```
 cd [your github page directory]
 sudo bundle install
